@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/forscate"
+       android:title="Forecast"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:id="@+id/convertCelcius"
+        android:title="Temperature in Farenhite"
+        app:showAsAction="never">
+    </item>
+</menu>
